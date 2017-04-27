@@ -1,2 +1,2 @@
-# Random linux scripts
+# Random linux scripts with stuff a easily forgot
 
